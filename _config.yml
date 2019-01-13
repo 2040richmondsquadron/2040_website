@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
    of activities from flying to hiking to first aid training and more.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://2040richmondsquadron.com/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+twitter_username:
 github_username:  johnathan99j
 
 # Build settings
@@ -46,15 +46,15 @@ plugins:
 # Team names, titles and social links
 people:
 - name: Andy Ayre
-  pic: 1
+  pic: blank
   position: Commanding Officer
 
 - name: Peter Godwin
-  pic: 2
+  pic: blank
   position: Civilian Instructor
 
 - name: Abigail Swift
-  pic: 3
+  pic: blank
   position: Sergeant
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
