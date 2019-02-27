@@ -45,17 +45,17 @@ plugins:
 
 # Team names, titles and social links
 people:
-- name: Andy Ayre
-  pic: blank
-  position: Commanding Officer
+  - name: Andy Ayre
+    pic: blank
+    position: Commanding Officer
 
-- name: Peter Godwin
-  pic: blank
-  position: Civilian Instructor
+  - name: Peter Godwin
+    pic: blank
+    position: Civilian Instructor
 
-- name: Abigail Swift
-  pic: blank
-  position: Sergeant
+  - name: Abigail Swift
+    pic: blank
+    position: Sergeant
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
