@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: 2040 - Richmond Squadron
-email: 2040@aircadets.org
+email: adj.2040@rafac.mod.gov.uk
 description: >- # this means to ignore newlines until "baseurl:"
   2040 Richmond Squadron is based in Richmond North Yorkshire. We do a multitude
    of activities from flying to hiking to first aid training and more.
@@ -62,7 +62,7 @@ social:
 #  - title: twitter
 #    url: http://twitter.com/
   - title: envelope
-    url: mailto:2040@aircadets.org
+    url: mailto:adj.2040@rafac.mod.gov.uk
   - title: facebook
     url: https://www.facebook.com/richmondaircadets/
 
